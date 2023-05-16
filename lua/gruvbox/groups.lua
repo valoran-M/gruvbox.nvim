@@ -985,7 +985,7 @@ M.setup = function()
     TSRainbowCyan = { fg = colors.cyan },
 
     -- ident blankline
-    IndentBlanklineIndent1 = { fg = colors.neutral_green },
+    IndentBlanklineIndent1 = { fg = colors.bg0 },
   }
 
   for group, hl in pairs(config.overrides) do
