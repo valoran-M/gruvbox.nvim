@@ -161,7 +161,7 @@ M.setup = function()
     SpellRare = { link = "GruvboxPurpleUnderline" },
     Whitespace = { fg = colors.bg2 },
     -- LSP Diagnostic
-    DiagnosticError = { link = "GruvboxRed" },
+    DiagnosticError = { fg = colors.neutral_red },
     DiagnosticSignError = { link = "GruvboxRedSign" },
     DiagnosticUnderlineError = { link = "GruvboxRedUnderline" },
     DiagnosticWarn = { link = "GruvboxYellow" },
