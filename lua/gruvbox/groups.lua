@@ -985,7 +985,7 @@ M.setup = function()
     TSRainbowCyan = { fg = colors.cyan },
 
     -- ident blankline
-    IndentBlanklineIndent1 = { fg = colors.bg1 },
+    IndentBlanklineIndent = { fg = colors.bg1 },
     IndentBlanklineContextChar = { fg = colors.neutral_green },
   }
 
