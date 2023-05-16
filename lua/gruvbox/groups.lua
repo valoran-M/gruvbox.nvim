@@ -986,6 +986,7 @@ M.setup = function()
 
     -- ident blankline
     IndentBlanklineIndent1 = { fg = colors.bg1 },
+    IndentBlanklineContextChar = { fg = colors.neutral_green },
   }
 
   for group, hl in pairs(config.overrides) do
