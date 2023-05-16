@@ -162,7 +162,7 @@ M.setup = function()
     Whitespace = { fg = colors.bg2 },
     -- LSP Diagnostic
     DiagnosticError = { fg = colors.neutral_red },
-    DiagnosticSignError = { link = "GruvboxRedSign" },
+    DiagnosticSignError = { fg = colors.neutral_red },
     DiagnosticUnderlineError = { link = "GruvboxRedUnderline" },
     DiagnosticWarn = { link = "GruvboxYellow" },
     DiagnosticSignWarn = { link = "GruvboxYellowSign" },
