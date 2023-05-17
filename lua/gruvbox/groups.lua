@@ -492,7 +492,7 @@ M.setup = function()
     NERDTreeToggleOff = { link = "GruvboxRed" },
     -- coctail
     CoqtailSent = { bg = "#574300"},
-    CoqtailChecked = { bg = "#30423c" }
+    CoqtailChecked = { bg = "#30423c" },
     -- telescope.nvim
     TelescopeNormal = { link = "GruvboxFg1" },
     TelescopeSelection = { link = "GruvboxOrangeBold" },
