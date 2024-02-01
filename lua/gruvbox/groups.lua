@@ -122,7 +122,7 @@ M.setup = function()
     --              keywords TODO FIXME and XXX
     Todo = { fg = colors.bg0, bg = colors.yellow, bold = config.bold, italic = config.italic.comments },
     Done = { fg = colors.orange, bold = config.bold, italic = config.italic.comments },
-    Error = { fg = colors.red, bold = config.bold, reverse = config.inverse },
+    Error = { fg = colors.red, bold = config.bold },
     Statement = { link = "GruvboxRed" },
     Conditional = { link = "GruvboxRed" },
     Repeat = { link = "GruvboxRed" },
