@@ -156,7 +156,7 @@ M.setup = function()
     DiffChange = { fg = colors.aqua, bg = colors.bg0, reverse = config.inverse },
     DiffText = { fg = colors.yellow, bg = colors.bg0, reverse = config.inverse },
     SpellCap = { link = "GruvboxBlueUnderline" },
-    SpellBad = { fg = colors.red, bg = colors.bg0, },
+    SpellBad = { link = "GruvboxRedUnderline" },
     SpellLocal = { link = "GruvboxAquaUnderline" },
     SpellRare = { link = "GruvboxPurpleUnderline" },
     Whitespace = { fg = colors.bg2 },
